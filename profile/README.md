@@ -1,4 +1,5 @@
-## Hi there 👋
+# ⭐️ Galaxy City ⭐️
+## Planung | Entwicklung | Dokumentation
 
 <!--
 
